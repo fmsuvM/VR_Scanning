@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/unhappy_vive.unity
+  isLoaded: 1
+  isActive: 1
