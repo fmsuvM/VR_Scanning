@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/happy_holiday.unity
-  isLoaded: 1
-  isActive: 1
